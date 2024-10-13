@@ -1,0 +1,5 @@
+
+*.dat
+/calculadoraemjava/Oracle_JDK-22/bin
+/calculadoraemjava/Oracle_JDK-22
+*.dll
